@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **virginiagutierrez1986@gmail.com**
 
-- 📄 Know about my experiences [https://megastratofall.github.io/portfolio/](https://megastratofall.github.io/portfolio/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/virginiaguti%C3%A9rrez/](https://www.linkedin.com/in/virginiaguti%C3%A9rrez/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
