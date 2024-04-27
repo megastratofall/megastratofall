@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Virginia gutiérrez</h1>
 <h3 align="center">A passionate Full Stack Web & Indie Video Game Developer</h3>
 
-- 🔭 I’m currently working on [The Great-Great-Grandson Game](link soon!)
+- 🔭 I’m currently working on [The Great-Great-Grandson Game]([link soon!](https://megastratofall.github.io/great-great-grandson/))
 
 - 👨‍💻 My portfolio is available at [https://megastratofall.github.io/portfolio/](https://megastratofall.github.io/portfolio/)
 
